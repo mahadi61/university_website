@@ -9,7 +9,7 @@
 .header{
     min-width: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 28, 0.7),rgba(4,9,30,0.7)),url(images/banner.png);
+    background-image: linear-gradient(rgba(4, 9, 28, 0.7),rgba(4,9,30,0.7)),url(https://user-images.githubusercontent.com/118722600/210037944-e6715a39-1f13-45c6-8384-a8b3e5f85d45.png);
     background-position: center;
     background-size: cover;
     position: relative;
